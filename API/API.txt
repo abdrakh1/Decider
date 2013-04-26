@@ -1,0 +1,18 @@
+Welcome to the Decider API! Here you will find everything that you can use to make decider work.
+
+
+Section 0: Error Codes
+----------------------------------------------------------------------------------------
+File: error_codes.txt
+Possible error codes and their meaning as returned by the queries
+
+Section 1: Models
+----------------------------------------------------------------------------------------
+File: models.txt
+Add models that can be returned by the queries
+
+
+Section 2: Queries
+----------------------------------------------------------------------------------------
+File: queries.txt
+All possible queries, their parameters, and return values along with any restrictions
